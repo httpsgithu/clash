@@ -8,7 +8,7 @@ require (
 	github.com/docker/go-connections v0.4.0
 	github.com/miekg/dns v1.1.43
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/net v0.0.0-20211105192438-b53810dc28af
+	golang.org/x/net v0.1.0
 )
 
 replace github.com/Dreamacro/clash => ../
@@ -38,10 +38,10 @@ require (
 	github.com/u-root/uio v0.0.0-20210528114334-82958018845c // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20211107104306-e0b2ad06fe42 // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
 	google.golang.org/grpc v1.42.0 // indirect
